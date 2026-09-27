@@ -1,0 +1,6 @@
+{
+  "name": "Razor's Edge Ltd — Barber Shop DHA Phase 2 Lahore",
+  "description": "Men's grooming and barbershop in Sector Q, DHA Phase 2, Lahore. Precision fades, classic haircuts, and beard sculpting. Rated 4.8 on Google Reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
