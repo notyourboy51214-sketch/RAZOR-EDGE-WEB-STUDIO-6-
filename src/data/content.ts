@@ -1,4 +1,9 @@
 import { ReviewItem, ServiceType } from '../types';
+import fadeDetail from '../assets/images/hero_fade_detail_1790495617557.jpg';
+import beardContour from '../assets/images/hero_beard_contour_1790495637343.jpg';
+import cutCraft from '../assets/images/hero_cut_craft_1790495650213.jpg';
+import shopInterior from '../assets/images/shop_interior_chairs_1790495666862.jpg';
+import barberTools from '../assets/images/barber_tools_chrome_1790495680107.jpg';
 
 export const BUSINESS_INFO = {
   name: "Razor's Edge Ltd",
@@ -20,11 +25,11 @@ export const BUSINESS_INFO = {
 };
 
 export const IMAGES = {
-  fadeDetail: "/src/assets/images/hero_fade_detail_1790495617557.jpg",
-  beardContour: "/src/assets/images/hero_beard_contour_1790495637343.jpg",
-  cutCraft: "/src/assets/images/hero_cut_craft_1790495650213.jpg",
-  shopInterior: "/src/assets/images/shop_interior_chairs_1790495666862.jpg",
-  barberTools: "/src/assets/images/barber_tools_chrome_1790495680107.jpg",
+  fadeDetail,
+  beardContour,
+  cutCraft,
+  shopInterior,
+  barberTools,
 };
 
 export const REVIEWS_DATA: ReviewItem[] = [
